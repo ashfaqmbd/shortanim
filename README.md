@@ -1,3 +1,6 @@
+## Short Animation
+# [▶ Click to view Live Demo](http://afq-tinyanim.surge.sh/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
